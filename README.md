@@ -1,14 +1,5 @@
-# Welcome to our GitHub classroom!
+# Git terminology, history, branching
 
-Edit this file by clicking the 'pen' symbol to the right.
-Then answer in the space below each question:
+Look at the current github *Issues* by clicking on its tab.
 
-1. First name
-Stewart
-2. Last name
-
-3. Favourite animal
-dolphin
-
-Now click the green 'commit changes' button at the bottom.
-
+Complete all of the *Issues*.
